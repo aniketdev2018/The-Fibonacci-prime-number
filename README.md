@@ -1,2 +1,2 @@
 # The-Fibonacci-prime-number
-simply cope paste the code .
+simply copy paste the code .
