@@ -1,5 +1,12 @@
 #include<bits/stdc++.h>
 using namespace std;
+
+/*
+commenting for better rich
+ Follow this .
+1. variable name should be sync with the actual definition
+2. indentation is necessary for code to look healthy
+3. avoid multiple cout and cin*/
 int main()
 {
     ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
