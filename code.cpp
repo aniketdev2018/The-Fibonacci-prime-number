@@ -6,7 +6,9 @@ commenting for better rich
  Follow this .
 1. variable name should be sync with the actual definition
 2. indentation is necessary for code to look healthy
-3. avoid multiple cout and cin*/
+3. avoid multiple cout and cin
+4. In your github page add image for the sample input and output
+5. Hope it is helpful*/
 int main()
 {
     ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
